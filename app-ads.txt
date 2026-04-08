@@ -1,4 +1,4 @@
-liftoff.io,69cfec75ec9955c98b629fdc,DIRECT,c107d686becd2d77
+vungle.com,69cfec75ec9955c98b629fdc,DIRECT,c107d686becd2d77
 33across.com,001Pg0000197KcKIAU,RESELLER,bbea06d9c4d2853c
 contextweb.com,562852,RESELLER,89ff185a4c4e857c
 media.net,8CU12AQ1Y,RESELLER
@@ -358,4 +358,3 @@ zmaticoo.com,5135063,RESELLER
 zmaticoo.com,5135224,RESELLER
 zmaticoo.com,5135302,RESELLER
 zoomd.com,88478941,RESELLER
-tappx.com,vfdc5296d,DIRECT,9f375a07da0318ec
